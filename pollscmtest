@@ -1,0 +1,5 @@
+public class MAIN {
+    public static void main(String args[]) {
+        System.out.println("All type of bags at Shopping.com");
+    }
+}
